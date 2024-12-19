@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Password Crafter
 
-## Getting Started
+**Password Crafter** es una herramienta diseñada para crear contraseñas únicas y seguras con algoritmos avanzados. Perfecta para usuarios y empresas que buscan proteger su información digital con contraseñas fuertes, fáciles de administrar y adaptadas a diferentes niveles de seguridad.
 
-First, run the development server:
+Con **Password Crafter**, puedes:  
+- Generar contraseñas personalizadas con reglas específicas.  
+- Almacenar contraseñas de forma segura.    
+- Asegurar que nunca reutilices contraseñas en múltiples servicios.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+¡Ideal para mantener tus cuentas seguras sin complicaciones! 🚀
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/471b08f7-5322-4211-9d07-abab02ede0d7" alt="background" width="100%">
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Tecnologías Utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Aquí están las tecnologías clave utilizadas en este proyecto:
 
-## Learn More
+### Frontend
+![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=55)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-logo?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff&color=%2306B6D4)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=55)
+![HTML5](https://img.shields.io/badge/html_5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=55)
 
-To learn more about Next.js, take a look at the following resources:
+### Backend
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=55)
+![Prisma](https://img.shields.io/badge/prisma-logo?style=for-the-badge&logo=prisma&logoColor=%23ffffff&color=%232D3748)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Deployment
+![Vercel](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white&logoSize=55)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Frameworks & UI
+![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white&logoSize=55)
+![shadcn/ui](https://img.shields.io/badge/shadcnui-logo?style=for-the-badge&logo=shadcnui&logoColor=%23ffffff&color=%23000000)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌐 URL de la Aplicación
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+¡Puedes probar la aplicación aquí!  
+🔗 [Pass Crafter](https://pass-crafter.vercel.app/)
+
